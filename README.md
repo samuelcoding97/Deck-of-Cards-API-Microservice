@@ -16,5 +16,5 @@
       <p>message = message.decode()</p>
 
 ## UML Sequence Diagram
-
+./sequence-diagram.jpeg
 
